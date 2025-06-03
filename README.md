@@ -53,7 +53,9 @@ K-means clustering was used to classify each pixel based on multi-band or index 
 4. Repeat until centroids stabilize.
 
  ![Image Alt](https://github.com/caiiiiy1/0069final22081852/blob/0a0aaee06f1e3da028c514c070cf5059f4794d5c/Flow-Chart-of-K-Means-Clustering_W640.jpg) 
- ![Image Alt](https://github.com/caiiiiy1/0069final22081852/blob/0a0aaee06f1e3da028c514c070cf5059f4794d5c/%E4%B8%8B%E8%BD%BD%20(39).png))
+**From**
+ ![Image Alt](https://github.com/caiiiiy1/0069final22081852/blob/0a0aaee06f1e3da028c514c070cf5059f4794d5c/%E4%B8%8B%E8%BD%BD%20(39).png)
+ **To**
  ![Image Alt](https://github.com/caiiiiy1/0069final22081852/blob/0a0aaee06f1e3da028c514c070cf5059f4794d5c/%E4%B8%8B%E8%BD%BD%20(42).png)
 
 ---
