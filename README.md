@@ -35,7 +35,7 @@ $$
 
 These indices are then thresholded and clustered to delineate land cover types, especially water bodies.
 
-### ![Remote Sensing Workflow](attachment\:image-20230825-123528.png)
+
 
 ---
 
@@ -48,7 +48,7 @@ K-means clustering was used to classify each pixel based on multi-band or index 
 3. Recalculate centroids based on the mean of assigned points.
 4. Repeat until centroids stabilize.
 
-### ![K-Means Flowchart](attachment\:file-1RKbDLNSKXj3Y4PLr925SE.jpg)
+
 
 ---
 
