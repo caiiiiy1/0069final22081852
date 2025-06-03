@@ -90,21 +90,20 @@ All satellite data used in this project were acquired from the [Copernicus Data 
 
 ## 📚 7. References
 
-www.esa.int. (n.d.). Facts and figures. [online] Available at: https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Facts_and_figures.
-Copernicus.eu. (2015). S2 Processing. [online] Available at: https://sentiwiki.copernicus.eu/web/s2-processing.
-Github.io. (2025). Unsupervised Learning — GEOL0069 Guide Book. [online] Available at: https://cpomucl.github.io/GEOL0069-AI4EO/Chapter1_Unsupervised_Learning_Methods_2.html [Accessed 3 Jun. 2025].
-Orr, J., Gibbons, O. and Arnold, W. (2020). A brief guide to calculating embodied carbon. [online] Available at: https://www.istructe.org/IStructE/media/Public/TSE-Archive/2020/A-brief-guide-to-calculating-embodied-carbon.pdf.
-Datacenters.google. (2025). Blocked. [online] Available at: https://datacenters.google/efficiency/.
-Arxiv.org. (2020). Holistically Evaluating the Environmental Impact of Creating Language Models. [online] Available at: https://arxiv.org/html/2503.05804v1 [Accessed 3 Jun. 2025].
-Ruff, L. (2017). Carbon Intensity. [online] Carbonintensity.org.uk. Available at: https://carbonintensity.org.uk/.
-Owen, R.A., Owen, R.B., Renaut, R.W., Scott, J.J., Jones, B. and Ashley, G.M. (2008). Mineralogy and origin of rhizoliths on the margins of saline, alkaline Lake Bogoria, Kenya Rift Valley. Sedimentary Geology, 203(1-2), pp.143–163. doi:https://doi.org/10.1016/j.sedgeo.2007.11.007.
-Evers, J. (2022). Delta | National Geographic Society. [online] education.nationalgeographic.org. Available at: https://education.nationalgeographic.org/resource/delta/.
-EOS Data Analytics (2017). NDWI: Normalized Difference Water Index In Agriculture. [online] eos.com. Available at: https://eos.com/make-an-analysis/ndwi/.
-GIS Geography (2018). What Is NDVI (Normalized Difference Vegetation Index)? - GIS Geography. [online] GIS Geography. Available at: https://gisgeography.com/ndvi-normalized-difference-vegetation-index/.
-Ali, A. and Adebayo, A.O. (2019). Data Mining Application Using Clustering Techniques (K-Means Algorithm) In The Analysis Of Student’s Result. [online] Available at: https://www.researchgate.net/publication/333508765_Data_Mining_Application_Using_Clustering_Techniques_K-Means_Algorithm_In_The_Analysis_Of_Student%27s_Result/figures?lo=1.
-Jiang, W., Ni, Y., Pang, Z., He, G., Fu, J., Lu, J., Yang, K., Long, T. and Lei, T. (2020). A NEW INDEX FOR IDENTIFYING WATER BODY FROM SENTINEL-2 SATELLITE REMOTE SENSING IMAGERY. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, V-3-2020, pp.33–38. doi:https://doi.org/10.5194/isprs-annals-v-3-2020-33-2020.
-Copernicus Browser. (n.d.). Copernicus Browser. [online] Available at: https://browser.dataspace.copernicus.eu/.
+1. www.esa.int. (n.d.). Facts and figures. [online] Available at: https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Facts_and_figures.
+2. Copernicus.eu. (2015). S2 Processing. [online] Available at: https://sentiwiki.copernicus.eu/web/s2-processing.
+3. Github.io. (2025). Unsupervised Learning — GEOL0069 Guide Book. [online] Available at: https://cpomucl.github.io/GEOL0069-AI4EO/Chapter1_Unsupervised_Learning_Methods_2.html [Accessed 3 Jun. 2025].
+4. Orr, J., Gibbons, O. and Arnold, W. (2020). A brief guide to calculating embodied carbon. [online] Available at: https://www.istructe.org/IStructE/media/Public/TSE-Archive/2020/A-brief-guide-to-calculating-embodied-carbon.pdf.
+5. Datacenters.google. (2025). Blocked. [online] Available at: https://datacenters.google/efficiency/.
+6. Arxiv.org. (2020). Holistically Evaluating the Environmental Impact of Creating Language Models. [online] Available at: https://arxiv.org/html/2503.05804v1 [Accessed 3 Jun. 2025].
+7. Ruff, L. (2017). Carbon Intensity. [online] Carbonintensity.org.uk. Available at: https://carbonintensity.org.uk/.
+8. Owen, R.A., Owen, R.B., Renaut, R.W., Scott, J.J., Jones, B. and Ashley, G.M. (2008). Mineralogy and origin of rhizoliths on the margins of saline, alkaline Lake Bogoria, Kenya Rift Valley. Sedimentary Geology, 203(1-2), pp.143–163. doi:https://doi.org/10.1016/j.sedgeo.2007.11.007.
+9. Evers, J. (2022). Delta | National Geographic Society. [online] education.nationalgeographic.org. Available at: https://education.nationalgeographic.org/resource/delta/.
+10. EOS Data Analytics (2017). NDWI: Normalized Difference Water Index In Agriculture. [online] eos.com. Available at: https://eos.com/make-an-analysis/ndwi/.
+11. GIS Geography (2018). What Is NDVI (Normalized Difference Vegetation Index)? - GIS Geography. [online] GIS Geography. Available at: https://gisgeography.com/ndvi-normalized-difference-vegetation-index/.
+12. Ali, A. and Adebayo, A.O. (2019). Data Mining Application Using Clustering Techniques (K-Means Algorithm) In The Analysis Of Student’s Result. [online] Available at: https://www.researchgate.net/publication/333508765_Data_Mining_Application_Using_Clustering_Techniques_K-Means_Algorithm_In_The_Analysis_Of_Student%27s_Result/figures?lo=1.
+13. Jiang, W., Ni, Y., Pang, Z., He, G., Fu, J., Lu, J., Yang, K., Long, T. and Lei, T. (2020). A NEW INDEX FOR IDENTIFYING WATER BODY FROM SENTINEL-2 SATELLITE REMOTE SENSING IMAGERY. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, V-3-2020, pp.33–38. doi:https://doi.org/10.5194/isprs-annals-v-3-2020-33-2020.
+14. Copernicus Browser. (n.d.). Copernicus Browser. [online] Available at: https://browser.dataspace.copernicus.eu/.
+
 
 ---
-
-Let me know if you'd like this formatted as a `.md` file or embedded into your notebook itself.
