@@ -37,7 +37,7 @@ These indices are then thresholded and clustered to delineate land cover types, 
 
 And also for the geometric correction workflow which is used to precisely geolocate Sentinel-2 MSI imagery. Image datation, along with satellite attitude (roll, pitch, yaw) and position (X, Y, Z in WGS84), is used to define the spacecraft reference frame. Attitude is corrected using bias and drift, while position is adjusted using a second-degree polynomial function. This reference frame is transformed into the MSI instrument frame, which is then split into VNIR and SWIR focal plane frames. Each focal plane corresponds to specific spectral bands (B1–B9 for VNIR, B10–B12 for SWIR), and transformations are applied to account for band-dependent geometry. Band 4 is used as the geometric reference segment to align all other bands through correlation, ensuring accurate co-registration and ground mapping of all spectral information.
 
-![Image Alt]([image_url](https://github.com/caiiiiy1/0069final22081852/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-03%20084546.jpg?raw=true))
+![Image Alt](https://github.com/caiiiiy1/0069final22081852/blob/dd6b3c48701a4b973268a6ab8f2671d04cbc3c8b/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-03%20084546.jpg)
 
 
 ---
